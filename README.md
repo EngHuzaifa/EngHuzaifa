@@ -24,6 +24,8 @@ A passionate software developer with a keen eye for creating innovative solution
 ## 📊 GitHub Stats
 ![Muhammad Huzaifa's GitHub stats](https://github-readme-stats.vercel.app/api?username=EngHuzaifa&show_icons=true&theme=radical)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EngHuzaifa&layout=compact&theme=radical)
+
 ## 🏆 Achievements & Contributions
 - Developed multiple web applications with efficient and clean code
 - Implemented scalable solutions across various tech stacks
