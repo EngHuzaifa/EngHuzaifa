@@ -15,6 +15,7 @@ A passionate software developer with a keen eye for creating innovative solution
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3D5A?style=for-the-badge&logo=data:image/svg+xml;base64,YOUR_CUSTOM_LOGO)
 ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
 ![GraphRAG](https://img.shields.io/badge/GraphRAG-4CAF50?style=for-the-badge&logo=data:image/svg+xml;base64,YOUR_CUSTOM_LOGO)
+![CrewAI](https://img.shields.io/badge/CrewAI-5A2D81?style=for-the-badge&logo=ai&logoColor=white)
 
 ## 🔥 My Coding Journey
 - 🌱 Constantly learning and exploring new technologies
