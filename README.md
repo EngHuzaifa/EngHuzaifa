@@ -1,5 +1,5 @@
 
-# Muhammad Huzaifa 👋🚀
+# Hi there, I'm Muhammad Huzaifa! 👋🚀
 
 ## 🌟 About Me
 I'm a passionate software developer with expertise in AI-driven solutions and modern web technologies. Committed to creating innovative applications, I continuously expand my technical knowledge while focusing on delivering clean, scalable code that solves real-world problems.
